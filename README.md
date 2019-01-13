@@ -10,5 +10,5 @@ Inspired by Wes Bos - [JavaScript30](https://javascript30.com)
 
 ### See live on my domain:
 
-[SimonBuryan.CZ](http://simonburyan.cz/portitem/canvascolor/)
+[SimonBuryan.CZ](http://simonburyan.cz/portitem/drummachine/)
 
